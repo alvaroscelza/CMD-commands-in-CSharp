@@ -1,0 +1,4 @@
+-Se ejecuta desde un PC A.
+-Desde el PC A se cambia IPs en PCs remotos que esten conectados a la red.
+-Se requiere privilegios de adminsitrador en esos PCs remotos.
+-Se requiere tener instalado PsExec.
